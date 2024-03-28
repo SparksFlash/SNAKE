@@ -53,7 +53,7 @@ else:
 
 # Ternary Operator
 
-w = int(input())
+w = int(input())                                                # Watermelon(CODEFORCES)
 message = "NO" if w % 2 != 0 or w <= 2 else "YES"
 print(message)
 
